@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SmartVoice</string>
+    <string name="voice_enroll_title">声纹注册</string>
+    <string name="voice_recognition_title">声纹识别</string>
+    <string name="voice_enroll_hint">按住按钮，贴近话筒\n用普通话朗读内容</string>
+    <string name="voice_enroll_text">02315987468\n今天天气真好，阳光明媚</string>
+    <string name="voice_audio_hint">按住 说话</string>
+    <string name="user_not_exist_hint">用户不存在</string>
+    <string name="enroll_sucess">声纹注册成功</string>
+    <string name="enroll_fail">声纹注册失败</string>
+    <string name="recognition_sucess">声纹识别成功</string>
+    <string name="recognition_fail">声纹识别失败</string>
+    <string name="wait_result">处理中...</string>
+    <string name="history">历史输入</string>
+    <string name="current_tts_http">当前服务器设置：</string>
+</resources>

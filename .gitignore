@@ -1,0 +1,27 @@
+# Created by .ignore support plugin (hsz.mobi)
+db_files
+*.iml
+.project
+.classpath
+.project.properties
+gen/
+.idea/
+.gradle/
+gradle/
+build/
+gradlew*
+sdk/build
+将删除 .gradle/
+将删除 .idea/caches/
+将删除 .idea/gradle.xml
+将删除 .idea/misc.xml
+将删除 .idea/modules.xml
+将删除 .idea/runConfigurations.xml
+将删除 .idea/vcs.xml
+将删除 .idea/workspace.xml
+将删除 SmardVoiceDemo.iml
+将删除 SmartVoiceDemo.iml
+将删除 gradle/
+将删除 gradlew
+将删除 gradlew.bat
+将删除 settings.gradle
